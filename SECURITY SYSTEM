@@ -1,0 +1,27 @@
+int pir=13;
+int led=12;
+int buzz=11;
+
+
+void setup() {
+  Serial.begin(9600);
+  pinMode(pir, INPUT);
+  pinMode(led, OUTPUT);
+  pinMode(buzz, OUTPUT);
+}
+
+void loop() {
+  int msig=digitalRead(pir);
+  if (msig==HIGH)
+  {
+    Serial.println("motion detected");
+    digitalWrite(led, HIGH);
+    tone(buzz,1000);
+    delay(2000);     
+  }else{
+    Serial.println("motion undetected");
+    digitalWrite(led , LOW);
+    
+  }
+
+}
