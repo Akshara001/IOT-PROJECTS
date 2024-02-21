@@ -8,3 +8,5 @@
 ## TASK3: SECURITY SYSTEM
 <img width="960" alt="image" src="https://github.com/Akshara001/IOT-PROJECTS/assets/75906906/4543c2ca-cbb4-416b-8214-b053427f6b30">
 
+## TASK4: HUMIDITY MONITORING
+<img width="958" alt="Screenshot 2024-02-21 203210" src="https://github.com/Akshara001/IOT-PROJECTS/assets/75906906/c7d76174-30f7-4433-a49b-afd895b63b24">
