@@ -1,0 +1,27 @@
+int sensorPin=A0;  
+int led=4;
+int sensorValue;
+
+void setup()
+{
+  pinMode(led,OUTPUT);
+  pinMode(sensorPin,INPUT);
+  Serial.begin (9600);
+}
+
+void loop()
+{
+  sensorValue = analogRead(sensorPin);  
+  Serial.print ("Light level: ");
+  Serial.println(sensorValue); 
+  if (sensorValue <500)
+  {
+    digitalWrite(led,HIGH);
+  }
+  else
+  {  
+    digitalWrite(led,LOW);
+  }  
+  delay (100);
+}
+
