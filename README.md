@@ -10,3 +10,6 @@
 
 ## TASK4: HUMIDITY MONITORING
 <img width="958" alt="Screenshot 2024-02-21 203210" src="https://github.com/Akshara001/IOT-PROJECTS/assets/75906906/c7d76174-30f7-4433-a49b-afd895b63b24">
+
+## TASK5: LIGHTING SYSTEM
+<img width="960" alt="image" src="https://github.com/Akshara001/IOT-PROJECTS/assets/75906906/bbf2b0c9-c4e2-42e8-8511-7fc167c30099">
