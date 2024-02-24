@@ -13,3 +13,7 @@
 
 ## TASK5: LIGHTING SYSTEM
 <img width="960" alt="image" src="https://github.com/Akshara001/IOT-PROJECTS/assets/75906906/bbf2b0c9-c4e2-42e8-8511-7fc167c30099">
+
+## TASK6: LCD SENSOR READING
+<img width="958" alt="image" src="https://github.com/Akshara001/IOT-PROJECTS/assets/75906906/c066c7fe-a565-4caa-9f75-f4489472cc60">
+
