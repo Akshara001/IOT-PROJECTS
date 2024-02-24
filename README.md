@@ -17,3 +17,7 @@
 ## TASK6: LCD SENSOR READING
 <img width="958" alt="image" src="https://github.com/Akshara001/IOT-PROJECTS/assets/75906906/c066c7fe-a565-4caa-9f75-f4489472cc60">
 
+## TASK7: CONTROLLING SERVOMOTOR
+<img width="960" alt="image" src="https://github.com/Akshara001/IOT-PROJECTS/assets/75906906/f4f8b270-ffe2-41af-9cf9-a4e54bbe7c94">
+
+
