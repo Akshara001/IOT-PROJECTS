@@ -20,4 +20,8 @@
 ## TASK7: LCD SENSOR READING
 <img width="958" alt="image" src="https://github.com/Akshara001/IOT-PROJECTS/assets/75906906/c066c7fe-a565-4caa-9f75-f4489472cc60">
 
+## TASK8: LIGHT INTENSITY MEASUREMENT
+<img width="958" alt="image" src="https://github.com/Akshara001/IOT-PROJECTS/assets/75906906/b46866a4-7181-4dad-905d-f086b4d97012">
+
+
 
