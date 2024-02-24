@@ -23,5 +23,7 @@
 ## TASK8: LIGHT INTENSITY MEASUREMENT
 <img width="958" alt="image" src="https://github.com/Akshara001/IOT-PROJECTS/assets/75906906/b46866a4-7181-4dad-905d-f086b4d97012">
 
+## TASK9: MOTION DETECTOR
+<img width="958" alt="image" src="https://github.com/Akshara001/IOT-PROJECTS/assets/75906906/baab7ee7-c8b8-48fd-8d21-201fb4d888c9">
 
 
